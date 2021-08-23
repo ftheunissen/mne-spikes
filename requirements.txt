@@ -1,2 +1,2 @@
 numpy
--e git://github.com/mne-tools/mne-python.git#egg=mne
+mne-python
